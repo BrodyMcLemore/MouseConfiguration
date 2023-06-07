@@ -14,4 +14,4 @@ A comprehensive list of visual features that are customizable using Mouse Config
 * User Built Purpose 
 
 ## Latest Release Download 
-> [Mouse Configuration V1.0.0] (https://github.com/BrodyMcLemore/MouseConfiguration/releases/download/V1.0.0/MouseConfiguration_Setup_V1.0.0.exe)
+> [Mouse Configuration V1.0.0](https://github.com/BrodyMcLemore/MouseConfiguration/releases/download/V1.0.0/MouseConfiguration_Setup_V1.0.0.exe)
